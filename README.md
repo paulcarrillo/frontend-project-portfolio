@@ -16,4 +16,8 @@ The objective of this application is to showcase my projects, contributions to t
 
 ## Author
 
-[Paul Carrillo](https://www.linkedin.com/in/paul-carrillo/)
+* [Paul Carrillo](https://www.linkedin.com/in/paul-carrillo/)
+
+## License
+
+MIT
